@@ -1,7 +1,7 @@
 ![logo](https://github.com/Rushi-Patil-744/Rushi-Patil-744/blob/main/%2B91%207447552017.jpg)
 
 <h1 align="center">Hi 👋, I'm Rushikesh Patil.</h1>
-<h3 align="center">I’m a dedicated and a passionate Jr.Data Science with a passion for tackling complex problems and turning data into actionable insights.</h3>
+<h3 align="center">I’m a dedicated and a passionate Jr.Data Sciencentist with a passion for tackling complex problems and turning data into actionable insights.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
